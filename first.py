@@ -1,1 +1,0 @@
-print('Study python basic')
